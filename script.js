@@ -1,2 +1,2 @@
 const name = " I'm Krystal Mai"
-document.querySelector(h2).appendChild(name);
+document.querySelector("h2").appendChild(name);
